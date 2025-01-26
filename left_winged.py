@@ -18,7 +18,7 @@ TWITTER_ACCESS_TOKEN_SECRET = "nTBtWOZUZfLkbvJRXdU8pqcP8OyeFeWKzhRS72i1WYOsO"
 # Bot configuration
 BOT_USERNAME = "Dobby_The_Goat"
 BOT_USER_ID = "1883394636066291712"
-TARGET_USERNAME = "Not_Cool_Dobby_"  # Account to mention
+TARGET_USERNAME = "CriticalDo5570"  # Account to mention
 
 # Fireworks API setup
 FIREWORKS_API_KEY = "fw_3Zn4TrD5roTxwMXaG4bru86w"
