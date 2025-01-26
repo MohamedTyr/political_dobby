@@ -10,18 +10,18 @@ import random
 load_dotenv()
 
 # Twitter API credentials
-TWITTER_API_KEY = "phJP1QWXz6SmZJ64881NIUEeL"
-TWITTER_API_SECRET = "8o8GyuU6Z4lPL9vx9yzu58Cahzlim71WXbTAvc9RmMVENt4e2N"
-TWITTER_ACCESS_TOKEN = "1883406688545648641-kDPQUjYFJd5KIxNeKuZfwBvRt3Aita"
-TWITTER_ACCESS_TOKEN_SECRET = "0RXpejv7KMbZJ2JTSYbEpOMHBzjpVbHSgYAau5HsyCcB1"
+TWITTER_API_KEY = ""
+TWITTER_API_SECRET = ""
+TWITTER_ACCESS_TOKEN = ""
+TWITTER_ACCESS_TOKEN_SECRET = ""
 
 # Bot configuration
-BOT_USERNAME = "CriticalDo5570"
-BOT_USER_ID = "1883408931969773568"
-TARGET_USERNAME = "Dobby_The_Goat"  # Account to mention
+BOT_USERNAME = ""
+BOT_USER_ID = ""
+TARGET_USERNAME = ""  # Account to mention
 
 # Fireworks API setup
-FIREWORKS_API_KEY = "fw_3Zn4TrD5roTxwMXaG4bru86w"
+FIREWORKS_API_KEY = ""
 
 
 def setup_twitter_api():
