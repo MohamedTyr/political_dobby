@@ -21,7 +21,7 @@ BOT_USER_ID = ""
 TARGET_USERNAME = ""  # Account to mention
 
 # Fireworks API setup
-FIREWORKS_API_KEY = "fw_3Zn4TrD5roTxwMXaG4bru86w"
+FIREWORKS_API_KEY = ""
 
 
 def setup_twitter_api():
